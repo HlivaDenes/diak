@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-control-center.desktop" open-window-count="0" score="42" last-seen="1545162001"/>
+    <application id="mypaint.desktop" open-window-count="0" score="1" last-seen="1545161041"/>
+    <application id="yelp.desktop" open-window-count="0" score="0" last-seen="1545160942"/>
+    <application id="firefox.desktop" open-window-count="0" score="1" last-seen="1545160953"/>
+    <application id="terminator.desktop" open-window-count="1" score="1" last-seen="1545162049"/>
+    <application id="gedit.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="20" last-seen="1545162026"/>
+    <application id="google-chrome.desktop" open-window-count="0" score="6" last-seen="1545161483"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="0" last-seen="1545162017"/>
+    <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="org.gnome.tweaks.desktop" open-window-count="0" score="46" last-seen="1545161467"/>
+    <application id="libreoffice-calc.desktop" open-window-count="0" score="1" last-seen="1545161836"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="0" score="1" last-seen="1545162061"/>
+    <application id="org.gnome.Calendar.desktop" open-window-count="0" score="0" last-seen="1545161851"/>
+    <application id="gnome-initial-setup.desktop" open-window-count="0" score="1" last-seen="1545160634"/>
+    <application id="libreoffice-writer.desktop" open-window-count="0" score="37" last-seen="1545161808"/>
+  </context>
+</application-state>

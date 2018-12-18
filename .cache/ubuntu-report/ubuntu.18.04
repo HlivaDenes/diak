@@ -1,0 +1,81 @@
+{
+  "Version": "18.04",
+  "OEM": {
+    "Vendor": "LENOVO",
+    "Product": "3626D15"
+  },
+  "BIOS": {
+    "Vendor": "LENOVO",
+    "Version": "6QET70WW (1.40 )"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "4",
+    "Threads": "2",
+    "Cores": "2",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "37",
+    "Stepping": "5",
+    "Name": "Intel(R) Core(TM) i5 CPU       M 520  @ 2.40GHz",
+    "Virtualization": "VT-x"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "0046"
+    }
+  ],
+  "RAM": 5.9,
+  "Disks": [
+    500.1
+  ],
+  "Partitions": [
+    478.7
+  ],
+  "Screens": [
+    {
+      "Size": "261mmx163mm",
+      "Resolution": "1280x800",
+      "Frequency": "60.16"
+    },
+    {
+      "Size": "477mmx268mm",
+      "Resolution": "1920x1080",
+      "Frequency": "60.00"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "hu_HU",
+  "Timezone": "Europe/Budapest",
+  "Install": {
+    "Media": "Ubuntu 18.04.1 LTS \"Bionic Beaver\" - Release amd64 (20180725)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_lvm",
+    "DownloadUpdates": true,
+    "Language": "hu",
+    "Minimal": false,
+    "RestrictedAddons": true,
+    "Stages": {
+      "0": "language",
+      "1": "language",
+      "8": "console_setup",
+      "20": "prepare",
+      "46": "partman",
+      "68": "start_install",
+      "92": "timezone",
+      "94": "usersetup",
+      "121": "user_done",
+      "454": "done"
+    }
+  }
+}
